@@ -1,5 +1,5 @@
 
-# Online Store 
+# Spinner
 
 This is just a normal spinner like Lottery / Jackpot / Guessing Game. Copy and Paste and you are ready to go.
 Got the idea and code help from random youtube and online search.
@@ -14,16 +14,6 @@ Credit goes to them also.
 https://sadikuzzamantarek.github.io/spinner/
 
 
-## Installation
-
-Install my project with npm and you are ready to go.
-
-```bash
-  npm install
- 
-```
-
-    
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
